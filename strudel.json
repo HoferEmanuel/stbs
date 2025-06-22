@@ -1,0 +1,14 @@
+{
+  "_base": "https://raw.githubusercontent.com/HoferEmanuel/stbs",
+  "stbs_rim": [
+    "stbs_rim/rim_11.wav",
+    "stbs_rim/rim_36.wav",
+    "stbs_rim/rim_12.wav"
+  ],
+  "stbs_oh": [
+    "stbs_oh/open_hat_3.wav",
+    "stbs_oh/open_hat_14.wav",
+    "stbs_oh/hat_open_house.wav",
+    "stbs_oh/open_hat_titan.wav"
+  ]
+}
